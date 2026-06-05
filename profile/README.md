@@ -7,7 +7,7 @@
 
 We design and develop AI-powered automation platforms that help businesses streamline operations, automate workflows, improve customer experiences, and scale efficiently.
 
-[Website](https://ravanlink.com) • [LinkedIn](https://www.linkedin.com/company/ravanlink/) • [Contact](mailto:ravanlinktechnology@gmail.com)
+[Website](https://raavanlink.com) • [LinkedIn](https://www.linkedin.com/company/ravanlink/) • [Contact](mailto:ravanlinktechnology@gmail.com)
 
 </div>
 
@@ -117,7 +117,7 @@ Whether you're looking to automate internal operations, deploy AI assistants, or
 **RavanLink**
 
 📧 ravanlinktechnology@gmail.com  
-🌐 https://ravanlink.com  
+🌐 https://raavanlink.com  
 💼 https://linkedin.com/company/ravanlink
 
 ---
