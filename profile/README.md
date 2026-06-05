@@ -25,37 +25,10 @@ Our solutions combine Artificial Intelligence, Workflow Automation, Conversation
 
 To empower businesses with practical AI solutions that increase productivity, reduce operational costs, and unlock new opportunities for growth.
 
----
-
-## 💡 What We Build
-
-### AI Automation Platforms
-Custom AI-powered systems designed to automate complex business workflows and operational processes.
-
-### AI Chatbots & Virtual Assistants
-Intelligent conversational agents for customer support, lead generation, appointment scheduling, and sales automation.
-
-### Workflow Automation
-End-to-end business process automation using modern orchestration platforms and custom integrations.
-
-### WhatsApp Automation
-Automate customer interactions, order management, notifications, appointment booking, and support workflows.
-
-### AI Agents
-Autonomous AI agents capable of handling business tasks, decision-making processes, and workflow execution.
-
-### Custom AI Solutions
-Tailored AI applications developed to solve industry-specific challenges and business requirements.
 
 ---
 
 ## 🛠️ Technology Stack
-
-### Artificial Intelligence
-- OpenAI
-- Anthropic
-- Google Gemini
-- Retrieval-Augmented Generation (RAG)
 
 ### Automation & Orchestration
 - n8n
